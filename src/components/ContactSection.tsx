@@ -3,11 +3,11 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const hours = [
-  { day: "Mardi", time: "12h00 - 14h00 / 18h00 - 21h30" },
-  { day: "Mercredi", time: "12h00 - 14h00 / 18h00 - 21h30" },
-  { day: "Jeudi", time: "Ferme" },
-  { day: "Vendredi", time: "Ferme" },
-  { day: "Samedi", time: "Ferme" },
+  { day: "Mardi", time: "11h30 - 15h00 / 18h00 - 21h00" },
+  { day: "Mercredi", time: "11h30 - 15h00 / 18h00 - 21h00" },
+  { day: "Jeudi", time: "11h30 - 15h00 / 18h00 - 21h00" },
+  { day: "Vendredi", time: "11h30 - 15h00 / 18h00 - 21h00" },
+  { day: "Samedi", time: "12h00 - 21h00" },
   { day: "Dimanche", time: "Ferme" },
   { day: "Lundi", time: "Ferme" },
 ];
